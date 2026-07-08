@@ -1,0 +1,8 @@
+{
+  name: "centro-de-mando"
+  displayName: "Centro de Mando"
+  author: "MindustryModder"
+  description: "Restaura el Centro de Mando con 3 modos: Ataque, Defensa y Retirada"
+  minGameVersion: 149
+  hidden: false
+}

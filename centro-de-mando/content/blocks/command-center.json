@@ -1,0 +1,24 @@
+{
+  "name": "command-center",
+  "description": "Centro de mando que controla el comportamiento de las unidades aliadas.",
+  "size": 2,
+  "health": 220,
+  "solid": true,
+  "update": true,
+  "sync": true,
+  "hasItems": false,
+  "hasLiquids": false,
+  "hasPower": false,
+  "configurable": true,
+  "category": "effect",
+  "buildVisibility": "shown",
+  "breakable": true,
+  "destructible": true,
+  "requirements": [
+    "copper/200",
+    "lead/250",
+    "graphite/100",
+    "silicon/250"
+  ],
+  "research": "ground-factory"
+}
